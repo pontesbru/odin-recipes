@@ -1,0 +1,1 @@
+The current project will be a bird identifying site, I'll be making this to practice creating a website
